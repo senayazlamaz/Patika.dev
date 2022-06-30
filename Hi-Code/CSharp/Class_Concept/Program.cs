@@ -8,7 +8,7 @@ namespace Class_Concept
         {
 
             Calisan calisan1 = new Calisan();
-            calisan1.Ad = "Meleknur";
+            calisan1.Ad = "Sena";
             calisan1.Soyad = "Yazlamaz";
             calisan1.No = 11;
             calisan1.Departman = "Software";
